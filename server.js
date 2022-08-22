@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 
 // connection string
 mongoose.connect(
-  "mongodb+srv://dbuser:dbuser@cluster0.fzasn.mongodb.net/?retryWrites=true&w=majority",
+  "mongodb+srv://admin:V2hPpaIL13hCsNa2@cluster0.tzrwn4j.mongodb.net/?retryWrites=true&w=majority",
   { useNewUrlParser: true }
 );
 
